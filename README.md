@@ -21,9 +21,24 @@ EDA involves visualizing the data to see how the different features vary across 
 ![tBodyAccMag-mean](<Plot Images/box1.png>) 
 ![Angle between X-axis and gravityMean](<Plot Images/box2.png>) 
 ![Angle between Y-axis and gravityMean](<Plot Images/box3.png>)
+![PCA](<Plot Images/PCA.png>)
+![TSNE](<Plot Images/tsne.png>)
 
 
-## ***Exploratory Data Analysis***:
+## ***ML Model***:
+
+Decision tree model
+![Decision tree](<Plot Images/Decision tree model with Hyperparameter tuning and cross validation.png>)
+
+Kernel SVM
+![Kernel SVM](<Plot Images/ernel SVM model with Hyperparameter tuning and cross validation.png>)
+
+Logistic Regression
+![Logistic Regression](<Plot Images/Logistic Regression model with Hyper-paramerter Tuning and Cross - Validation.png>)
+
+
+
+
 
 
 
