@@ -13,5 +13,18 @@
 Class Imbalance 
  
  
+## ***Exploratory Data Analysis***:
+
+EDA involves visualizing the data to see how the different features vary across different activities, or computing summary statistics such as mean and standard deviation to understand the distribution of the data.
+
+![Activities](<Plot Images/activities.png>)
+![tBodyAccMag-mean](<Plot Images/box1.png>) 
+![Angle between X-axis and gravityMean](<Plot Images/box2.png>) 
+![Angle between Y-axis and gravityMean](<Plot Images/box3.png>)
+
+
+## ***Exploratory Data Analysis***:
+
+
 
 
